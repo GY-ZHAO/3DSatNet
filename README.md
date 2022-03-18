@@ -8,10 +8,10 @@ Please refer the [PointNet++](https://arxiv.org/abs/1706.02413) article for more
 ### I found [mmdetection3D](https://github.com/open-mmlab/mmdetection3d) contain some 3D compoment segmentation backbone, but the dataset they used are ScanNet, SUNRGB-D, Waymo, nuScenes, Lyft, and KITTI.
 
 ## 3、3D Part Segmentation on ShapeNet
-I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part) on ShapeNet,
+I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part) on ShapeNet dataset.
 
-|Model|backbone|url|paper|
-|:---|:---|:---|:---|
+|Model|Backbone|Url|Journal|
+|:---|:----|:---|:---|
 |KPConv|CNN-based|https://github.com/HuguesTHOMAS/KPConv|ICCV 2019|
 |GDANet|CNN-based|https://github.com/mutianxu/GDANet|AAAI2021|
 |Spherical Kernel|Graph-Based|https://github.com/EnyaHermite/SPH3D-GCN|IEEE CVPR2019|
@@ -34,8 +34,8 @@ I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-
 
 
 ## Acknowledgement
-Our code borrows a lot from:
+Our code borrows a lot from:  
 PointNet++  
 PointNet  
 Open3d  
-The code is constantly being updated
+## The code is constantly being updated
