@@ -14,7 +14,7 @@ I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-
 |:---|:---|:---|:---|
 |KPConv|CNN-based|https://github.com/HuguesTHOMAS/KPConv|ICCV 2019|
 |GDANet|CNN-based|https://github.com/mutianxu/GDANet|AAAI2021|
-|Spherical Kernel|Graph-Based|https://github.com/EnyaHermite/SPH3D-GCN|IEEE CVPR2019|
+|Spherical Kernel|Graph-Based|https://github.com/EnyaHermite/SPH3D-GCN|CVPR2019|
 |PointCNN|CNN-Based|https://github.com/yangyanli/PointCNN|NeurIPS 2018 |
 |DRNet|CNN-Based|https://github.com/ShiQiu0419/DRNet|WACV 2021 |
 |ConvPoint|CNN-Based|https://github.com/aboulch/ConvPoint/tree/master/examples/shapenet|Computers & Graphics 2019|
