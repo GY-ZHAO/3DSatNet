@@ -21,9 +21,9 @@ I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-
 |SpiderCNN|CNN-Based|https://github.com/xyf513/SpiderCNN|ECCV 2018|
 |3DGCN|Graph-Based|https://github.com/zhihao-lin/3dgcn/tree/master/segmentation|CVPR2020|
 |Splatnet|CNN-Based|https://github.com/NVlabs/splatnet|CVPR2018|
-|Point Transformer|transformer-Based|https://github.com/engelnico/point-transformer|IEEE Access 2021|
+|Point Transformer|Transformer-Based|https://github.com/engelnico/point-transformer|IEEE Access 2021|
 |CurveNet|CNN-Based|https://github.com/tiangexiang/CurveNet#point-cloud-part-segmentation|ICCV 2021|
-|PVT|transformer-Based|https://github.com/HaochengWan/PVT|2021|
+|PVT|Transformer-Based|https://github.com/HaochengWan/PVT|2021|
 |PVCNN volumetric|CNN-Based|https://github.com/Yochengliu/Relation-Shape-CNN|CVPR 2019|
 |DGCNN|Graph-Based|https://github.com/WangYueFt/dgcnn|2018|
 |PCNN|CNN-Based|https://github.com/matanatz/pcnn|SIGGRAPH 2018|
