@@ -27,7 +27,7 @@ I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-
 |PVCNN volumetric|CNN-Based|https://github.com/Yochengliu/Relation-Shape-CNN|CVPR 2019|
 |DGCNN|Graph-Based|https://github.com/WangYueFt/dgcnn|2018|
 |PCNN|CNN-Based|https://github.com/matanatz/pcnn|SIGGRAPH 2018|
-|SO-Net|GNN-Based|https://github.com/lijx10/SO-Net|CVPR 2018|
+|SO-Net|Graph-Based|https://github.com/lijx10/SO-Net|CVPR 2018|
 |Pointnet++-SSG|MLP-Based|https://github.com/charlesq34/pointnet2|NIPS 2017|
 |PointNet++-MSG|MLP-Based|https://github.com/charlesq34/pointnet2|NIPS 2017|
 |Pointnet|MLP-Based|https://github.com/charlesq34/pointnet|CVPR2017|
