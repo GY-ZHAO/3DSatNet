@@ -11,7 +11,7 @@ Please refer the [PointNet++](https://arxiv.org/abs/1706.02413) article for more
 I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part) on ShapeNet dataset.
 
 |Model|Backbone|Url|Journal|
-|:---|:---|:---|:---|
+|:---|:---|:---|:--|
 |KPConv|CNN-based|https://github.com/HuguesTHOMAS/KPConv|ICCV 2019|
 |GDANet|CNN-based|https://github.com/mutianxu/GDANet|AAAI2021|
 |Spherical Kernel|Graph-Based|https://github.com/EnyaHermite/SPH3D-GCN|CVPR2019|
