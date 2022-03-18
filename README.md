@@ -19,7 +19,7 @@ I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-
 |DRNet|CNN-Based|https://github.com/ShiQiu0419/DRNet|WACV 2021 |
 |ConvPoint|CNN-Based|https://github.com/aboulch/ConvPoint/tree/master/examples/shapenet|Computers & Graphics 2019|
 |SpiderCNN|CNN-Based|https://github.com/xyf513/SpiderCNN|ECCV 2018|
-|3DGCN|CNN-Based|https://github.com/zhihao-lin/3dgcn/tree/master/segmentation|CVPR2020|
+|3DGCN|Graph-Based|https://github.com/zhihao-lin/3dgcn/tree/master/segmentation|CVPR2020|
 |Splatnet|CNN-Based|https://github.com/NVlabs/splatnet|CVPR2018|
 |Point Transformer|transformer-Based|https://github.com/engelnico/point-transformer|IEEE Access 2021|
 |CurveNet|CNN-Based|https://github.com/tiangexiang/CurveNet#point-cloud-part-segmentation|ICCV 2021|
