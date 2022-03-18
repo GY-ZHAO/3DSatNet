@@ -35,7 +35,7 @@ I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-
 
 ## Acknowledgement
 Our code borrows a lot from:  
-[PointNet++](https://github.com/charlesq34/pointnet2) 
+[PointNet++](https://github.com/charlesq34/pointnet2)   
 [PointNet](https://github.com/charlesq34/pointnet)  
 [Open3d](http://www.open3d.org/)  
 ## The code is constantly being updated
