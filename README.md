@@ -10,5 +10,32 @@ Please refer the [PointNet++](https://arxiv.org/abs/1706.02413) article for more
 ## 3、3D Part Segmentation on ShapeNet
 I found a leadboard : [3D Part Segmentation](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part) on ShapeNet,
 
+|Model|backbone|url|paper|
+|:---|:---|:---|:---|
+|KPConv|CNN-based|https://github.com/HuguesTHOMAS/KPConv|ICCV 2019|
+|GDANet|CNN-based|https://github.com/mutianxu/GDANet|AAAI2021|
+|Spherical Kernel|Graph-Based|https://github.com/EnyaHermite/SPH3D-GCN|IEEE CVPR2019|
+|PointCNN|CNN-Based|https://github.com/yangyanli/PointCNN|NeurIPS 2018 |
+|DRNet|CNN-Based|https://github.com/ShiQiu0419/DRNet|WACV 2021 |
+|ConvPoint|CNN-Based|https://github.com/aboulch/ConvPoint/tree/master/examples/shapenet|Computers & Graphics 2019|
+|SpiderCNN|CNN-Based|https://github.com/xyf513/SpiderCNN|ECCV 2018|
+|3DGCN|CNN-Based|https://github.com/zhihao-lin/3dgcn/tree/master/segmentation|CVPR2020|
+|Splatnet|CNN-Based|https://github.com/NVlabs/splatnet|CVPR2018|
+|Point Transformer|transformer-Based|https://github.com/engelnico/point-transformer|IEEE Access 2021|
+|CurveNet|CNN-Based|https://github.com/tiangexiang/CurveNet#point-cloud-part-segmentation|ICCV 2021|
+|PVT|transformer-Based|https://github.com/HaochengWan/PVT|2021|
+|PVCNN volumetric|CNN-Based|https://github.com/Yochengliu/Relation-Shape-CNN|CVPR 2019|
+|DGCNN|Graph-Based|https://github.com/WangYueFt/dgcnn|2018|
+|PCNN|CNN-Based|https://github.com/matanatz/pcnn|SIGGRAPH 2018|
+|SO-Net|GNN-Based|https://github.com/lijx10/SO-Net|CVPR 2018|
+|Pointnet++-SSG|MLP-Based|https://github.com/charlesq34/pointnet2|NIPS 2017|
+|PointNet++-MSG|MLP-Based|https://github.com/charlesq34/pointnet2|NIPS 2017|
+|Pointnet|MLP-Based|https://github.com/charlesq34/pointnet|CVPR2017|
 
-### The code is constantly being updated
+
+## Acknowledgement
+Our code borrows a lot from:
+PointNet++  
+PointNet  
+Open3d  
+The code is constantly being updated
